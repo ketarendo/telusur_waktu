@@ -3,3 +3,11 @@ Git Configuration Repository command:
 $ git config --global user.email "senggigibarat@gmail.com"
 
 $ git init
+
+git add
+
+git remote add origin https://github.com/ketarendo/telusur_waktu.git
+
+$ git commit -m "first commit"
+
+$ git push -u origin master
