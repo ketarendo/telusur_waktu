@@ -1,0 +1,5 @@
+Git Configuration Repository command:
+
+$ git config --global user.email "senggigibarat@gmail.com"
+
+$ git init
